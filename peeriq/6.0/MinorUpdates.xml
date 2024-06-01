@@ -1,0 +1,53 @@
+<updateDescriptor baseUrl="https://downloads.peersoftware.com/peeriq/60" latestVersion="6.0.0.37">
+    <entry version="6.0.0.37"  upgradeFrom="6.0">
+        <arch type="linux64-peeriq" file="docker-compose60037.yml" composeSize="" composeChecksum="3d7b986957d6d85ff69e8365e3379fe2bd7fb745"/>
+        <comment-language>en</comment-language>
+        <release-notes>--Release 6.0.0.37.</release-notes>
+        <release-notes>Fix to license capacity calculation.</release-notes>
+        <release-notes>Various UI improvements.</release-notes>
+        <release-notes> ======================================================== </release-notes>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <max-version>5.2.0.20231122</max-version>
+            <excluded>
+                <version>5.2.0.20230922</version>
+                <version>5.2.0.20230922</version>
+            </excluded>
+        </compatibility>
+    </entry>
+    <entry version="6.0.0.36"  upgradeFrom="6.0">
+        <arch type="linux64-peeriq" file="docker-compose60036.yml" composeSize="" composeChecksum="e25f722941e200ca9378edbfa80357075aae7b1b"/>
+        <comment-language>en</comment-language>
+        <release-notes>--Release 6.0.0.36.</release-notes>
+        <release-notes>Fixed issue where freshly deployed Hyper-V appliance will not start all containers.</release-notes>
+        <release-notes>Various UI improvements.</release-notes>
+        <release-notes>Various bug fixes.</release-notes>
+        <release-notes> ======================================================== </release-notes>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <max-version>5.2.0.20231122</max-version>
+            <excluded>
+                <version>5.2.0.20230922</version>
+                <version>5.2.0.20230922</version>
+            </excluded>
+        </compatibility>
+    </entry>
+
+    <entry version="6.0.0.35"  upgradeFrom="6.0">
+        <arch type="linux64-peeriq" file="docker-compose60035.yml" composeSize="" composeChecksum="e25f722941e200ca9378edbfa80357075aae7b1b"/>
+        <comment-language>en</comment-language>
+        <release-notes>--Release 6.0.0.35.</release-notes>
+        <release-notes>Added ability to select Primary PMC.</release-notes>
+        <release-notes>Various UI improvements.</release-notes>
+        <release-notes>Various bug fixes.</release-notes>
+        <release-notes> ======================================================== </release-notes>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <max-version>5.2.0.20231122</max-version>
+            <excluded>
+                <version>5.2.0.20230922</version>
+                <version>5.2.0.20230922</version>
+            </excluded>
+        </compatibility>
+    </entry>
+</updateDescriptor>
