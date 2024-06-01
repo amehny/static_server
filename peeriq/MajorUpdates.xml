@@ -1,0 +1,62 @@
+<updateDescriptor baseUrl="https://downloads.peersoftware.com/peeriq">
+    <entry version="6.2" upgradeFrom="6.1" alias="6.2">
+        <landingPage url="https://www.peersoftware.com/new-release-notification-peergfs-v5-3/"/>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <max-version>5.2.0.20231122</max-version>
+            <excluded>
+                <version>5.2.0.20230922</version>
+                <version>5.2.0.20230923</version>
+                <version>5.2.0.20230924</version>
+            </excluded>
+        </compatibility>
+    </entry>
+    <prevEntry version="6.1" upgradeFrom="6.0" alias="6.1">
+        <landingPage url="https://www.peersoftware.com/new-release-notification-peergfs-v5-3/"/>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <max-version>5.2.0.20231122</max-version>
+            <excluded>
+                <version>5.2.0.20230922</version>
+                <version>5.2.0.20230923</version>
+                <version>5.2.0.20230924</version>
+            </excluded>
+        </compatibility>
+    </prevEntry>
+    <prevEntry version="6.0" upgradeFrom="5.3" alias="6.0">
+        <landingPage url="https://www.peersoftware.com/new-release-notification-peergfs-v6-0/"/>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <max-version>5.2.0.20231122</max-version>
+        </compatibility>
+    </prevEntry>
+    <prevEntry version="53" upgradeFrom="5.2" alias="5.3">
+        <landingPage url="https://www.peersoftware.com/new-release-notification-peergfs-v5-3/"/>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <excluded>
+                <version>5.2.0.20230922</version>
+            </excluded>
+        </compatibility>
+    </prevEntry>
+    <prevEntry version="52" upgradeFrom="5.1" alias="5.2">
+        <landingPage url="https://www.peersoftware.com/new-release-notification-peergfs-v5-2/"/>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <max-version>5.2.0.20231122</max-version>
+            <excluded>
+                <version>5.2.0.20230922</version>
+            </excluded>
+        </compatibility>
+    </prevEntry>
+    <prevEntry version="51" upgradeFrom="5.0" alias="5.1">
+        <landingPage url="https://www.peersoftware.com/new-release-notification-peergfs-v5-1/"/>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <max-version>5.2.0.20231122</max-version>
+            <excluded>
+                <version>5.2.0.20230922</version>
+            </excluded>
+        </compatibility>
+    </prevEntry>
+</updateDescriptor>
