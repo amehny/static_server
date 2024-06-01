@@ -1,0 +1,43 @@
+<updateDescriptor baseUrl="https://downloads.peersoftware.com/peeriq/52" latestVersion="5.2.0.19">
+    <entry version="5.2.0.19" upgradeFrom="5.2">
+        <arch type="linux64-peeriq" file="docker-compose52017.yml" composeSize="" composeChecksum="0bbc3379e184f6b8717ffe49db468dc33d3ae43d"/>
+        <comment-language>en</comment-language>
+        <release-notes>--Release 5.2.0.19.</release-notes>
+        <release-notes>Documentation Updates.</release-notes>
+        <release-notes>Update Increment decreased from 10 seconds to 60 seconds.</release-notes>
+        <release-notes>Various UI improvements.</release-notes>
+        <release-notes>
+        ========================================================
+        </release-notes>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <max-version>5.2.0.20231122</max-version>
+            <excluded>
+                <version>5.2.0.20230922</version>
+                <version>5.2.0.20230922</version>
+            </excluded>
+        </compatibility>
+    </entry>
+    <entry version="5.2.0.12" upgradeFrom="5.2">
+        <arch type="linux64-peeriq" file="docker-compose52012.yml" composeSize="" composeChecksum="61f25b489a1ab865457a18643281077605c3e5c4"/>
+        <comment-language>en</comment-language>
+        <release-notes>--Release 5.2.0.12.</release-notes>
+        <release-notes>Added License Usage insights to predict when a key will expire.</release-notes>
+        <release-notes>Added in-menu documentation.</release-notes>
+        <release-notes>Added LDAP multi-user support.</release-notes>
+        <release-notes>All fields now live update.</release-notes>
+        <release-notes>Added the ability to inspect individual jobs on the jobs page.</release-notes>
+        <release-notes>Wording/Capitalization QoL improvements.</release-notes>
+        <release-notes>Watch set page now has time controls.</release-notes>
+        <release-notes>Improve general performance to page loads.</release-notes>
+        <release-notes></release-notes>
+        <compatibility>
+            <min-version>5.1.1.20230522</min-version>
+            <max-version>5.2.0.20231122</max-version>
+            <excluded>
+                <version>5.2.0.20230922</version>
+                <version>5.2.0.20230922</version>
+            </excluded>
+        </compatibility>
+    </entry>
+</updateDescriptor>
