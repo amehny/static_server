@@ -1,4 +1,4 @@
-<updateDescriptor baseUrl="https://downloads.peersoftware.com/peeriq/52" latestVersion="5.2.0.19">
+< updateDescriptor baseUrl="https://downloads.peersoftware.com/peeriq/52" latestVersion="5.2.0.19">
     <entry version="5.2.0.19" upgradeFrom="5.2">
         <arch type="linux64-peeriq" file="docker-compose52017.yml" composeSize="" composeChecksum="0bbc3379e184f6b8717ffe49db468dc33d3ae43d"/>
         <comment-language>en</comment-language>
